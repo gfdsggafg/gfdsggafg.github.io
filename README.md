@@ -10,8 +10,8 @@ In Progress 施工中
 #### Academicals
 <a href="https://modrinth.com/resourcepack/academicals">Academicals-Modrinth</a>
 ## 易水的诗(Yishui's Poems)
-<a href="poems/preview/that_good_night.html">Fly, Please Fly Gentle into that Good Night</a>\
-<a href="poems/preview/the_death_of_the_words.html">雪，文字之死</a>
+<a href="poems/that_good_night.html">Fly, Please Fly Gentle into that Good Night</a>\
+<a href="poems/the_death_of_the_words.html">雪，文字之死</a>
 ## Alex' s Drawings
 ## xy's Daily Life
 <a href="daily/swimming_class.md">关于游泳课2023.6.6</a>
