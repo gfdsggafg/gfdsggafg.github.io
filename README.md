@@ -13,5 +13,6 @@ In Progress 施工中
 <a href="poems/that_good_night.html">Fly, Please Fly Gentle into that Good Night</a>\
 <a href="poems/the_death_of_the_words.html">雪，文字之死</a>
 ## Alex' s Drawings
+<a href="drawings/Alex_Drawings.html">Alex的画(多图预警)</a>
 ## xy's Daily Life
 <a href="daily/swimming_class.md">关于游泳课2023.6.6</a>
