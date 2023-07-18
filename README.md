@@ -17,5 +17,5 @@ In Progress 施工中
 ## xy's Daily Life
 <a href="daily/swimming_class.md">关于游泳课2023.6.6</a>
 ## TEST AREA
-<a href="test">test</a>
-<a href="gfdsggafg.github.io/test"
+<a href="test.md">test</a>
+<a href="gfdsggafg.github.io/test.md">test2</a>
